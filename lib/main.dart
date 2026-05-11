@@ -50,7 +50,7 @@ class _FoydalanuvchilarRuyxatiState extends State<FoydalanuvchilarRuyxati> {
       "id": "user4",
       "ismi": "Eldor Ergashov",
       "telefon": "743-125-6767",
-      "rasmi": "https://picsum.photos/60",
+      "rasmi": "https://picsum.photos/44",
     },
   ];
 
